@@ -1,0 +1,17 @@
+[
+  { "skill": ".NET" },
+  { "skill": "Java" },
+  { "skill": "MERN" },
+  { "skill": "ReactJS" },
+  { "skill": "NodeJS" },
+  { "skill": "AngularJS" },
+  { "skill": "Flutter" },
+  { "skill": "ReactNative" },
+  { "skill": "iOS-Swift" },
+  { "skill": "Android - Kotlin" },
+  { "skill": "AI" },
+  { "skill": "ML" },
+  { "skill": "Data Science" },
+  { "skill": "Data Analyst" },
+  { "skill": "Data Engineer" }
+]
